@@ -1,4 +1,4 @@
-# Chaser - Minecraft Asymmetric Multiplayer Datapack
+# Chaser - Minecraft Multiplayer Datapack
 
 ## Overview
 Chaser is a comprehensive Minecraft datapack that creates an asymmetric multiplayer game mode where one player (the Chaser) hunts multiple players (the Runners) with unique abilities and characters. The game features a diverse roster of characters, each with distinct abilities, and includes multiple game modes and modifiers.
