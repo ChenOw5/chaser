@@ -1,0 +1,2 @@
+tag @s add taken
+data merge entity @s {Invulnerable:0b,Item: {components: {"minecraft:enchantments": {levels: {"minecraft:efficiency": 15},show_in_tooltip:false}, "minecraft:unbreakable": {show_in_tooltip: 0b}, "minecraft:can_break": {predicates: [{blocks: "minecraft:crying_obsidian"}]}}, count: 1, id: "minecraft:golden_pickaxe"}}

@@ -1,0 +1,2 @@
+tag @s add taken
+data merge entity @s {Invulnerable: 0b, Item: {components: {"minecraft:can_place_on": {predicates: [{blocks: "minecraft:observer"}]}, "minecraft:custom_name": '{"color":"gold","italic":false,"text":"Electric Wire"}', "minecraft:enchantment_glint_override": 1b}, count: 1, id: "minecraft:lightning_rod"}}

@@ -1,0 +1,2 @@
+tag @s add taken
+data merge entity @s {Invulnerable: 0b, Item: {components: {"minecraft:custom_name": '{"color":"yellow","italic":false,"text":"Fuel"}', "minecraft:enchantment_glint_override": 1b}, count: 1, id: "minecraft:blaze_rod"}}

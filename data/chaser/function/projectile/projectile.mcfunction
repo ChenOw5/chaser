@@ -1,0 +1,9 @@
+execute as @s[tag=smokebomb] at @s run function chaser:projectile/smokebomb
+execute as @s[tag=parasite] at @s run function chaser:projectile/parasite
+execute as @s[tag=blizzard] at @s run function chaser:projectile/blizzard
+execute as @s[tag=arsenal] at @s run function chaser:projectile/arsenal
+execute as @s[tag=shinkuujin] at @s run function chaser:projectile/shinkuujin
+execute as @s[tag=sonic] at @s run function chaser:projectile/sonic
+execute as @s[tag=expulsion] at @s run function chaser:projectile/expulsion
+execute as @s[tag=moonlit] at @s run function chaser:projectile/moonlit
+execute as @s[tag=sunblaze] at @s run function chaser:projectile/sunblaze

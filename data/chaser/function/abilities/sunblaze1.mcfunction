@@ -1,0 +1,21 @@
+execute if entity @a[tag=chaser,distance=..5] facing entity @a[tag=chaser,limit=1,sort=nearest] feet run function chaser:abilities/sunblaze2
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^0.000 ^0.000 ^0.500 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^0.155 ^0.000 ^-0.476 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^0.294 ^-0.000 ^0.405 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^0.405 ^0.000 ^-0.294 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^0.476 ^-0.000 ^0.155 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^0.500 ^0.000 ^-0.000 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^0.476 ^0.000 ^-0.155 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^0.405 ^-0.000 ^0.294 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^0.294 ^0.000 ^-0.405 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^0.155 ^-0.000 ^0.476 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^0.000 ^0.000 ^-0.500 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^-0.155 ^-0.000 ^0.476 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^-0.294 ^0.000 ^-0.405 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^-0.405 ^-0.000 ^0.294 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^-0.476 ^0.000 ^-0.155 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^-0.500 ^-0.000 ^0.000 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^-0.476 ^-0.000 ^0.155 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^-0.405 ^0.000 ^-0.294 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^-0.294 ^-0.000 ^0.405 0 0 0 0 1 force @a
+particle minecraft:dust_color_transition{from_color:[1,1,0],to_color:[1.0,0.5,0.0],scale:1} ^-0.155 ^0.000 ^-0.476 0 0 0 0 1 force @a

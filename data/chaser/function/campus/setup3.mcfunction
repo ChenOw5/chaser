@@ -1,0 +1,2 @@
+tag @s add taken
+data merge entity @s {Invulnerable: 0b, Item: {components: {"minecraft:can_place_on": {predicates: [{blocks: "minecraft:waxed_oxidized_copper"}]}, "minecraft:custom_name": '{"color":"dark_aqua","italic":false,"text":"Electrical Room Key"}', "minecraft:enchantment_glint_override": 1b}, count: 1, id: "minecraft:lever"}}

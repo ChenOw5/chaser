@@ -1,0 +1,1 @@
+scoreboard players operation Batteries-4 objectives = @s pastgen

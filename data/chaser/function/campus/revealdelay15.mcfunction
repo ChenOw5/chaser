@@ -1,0 +1,1 @@
+schedule function chaser:campus/reveal 15s append

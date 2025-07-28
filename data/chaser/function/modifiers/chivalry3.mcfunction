@@ -1,0 +1,9 @@
+execute as @s[tag=zeegrave] as @a[tag=zee] run function chaser:res/zeeres
+execute as @s[tag=evegrave] as @a[tag=eve] run function chaser:res/everes
+execute as @s[tag=greggrave] as @a[tag=greg] run function chaser:res/gregres
+execute as @s[tag=quangrave] as @a[tag=quan] run function chaser:res/quanres
+execute as @s[tag=zenograve] as @a[tag=zeno] run function chaser:res/zenores
+execute as @s[tag=velocitygrave] as @a[tag=velocity] run function chaser:res/velocityres
+execute as @s[tag=drawngrave] as @a[tag=drawn] run function chaser:res/drawnres
+execute as @s[tag=yungrave] as @a[tag=yun] run function chaser:res/yunres
+execute as @s[tag=titaniumgrave] as @a[tag=titanium] run function chaser:res/titaniumres

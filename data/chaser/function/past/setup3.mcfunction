@@ -1,0 +1,2 @@
+tag @s add taken
+data merge entity @s {Invulnerable: 0b, Item: {components: {"minecraft:can_place_on": {predicates: [{blocks: "minecraft:netherite_block"}]}, "minecraft:custom_name": '{"color":"red","italic":false,"text":"Battery"}', "minecraft:enchantment_glint_override": 1b}, count: 1, id: "minecraft:redstone_block"}}

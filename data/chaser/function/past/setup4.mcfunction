@@ -1,0 +1,2 @@
+tag @s add taken
+data merge entity @s {Invulnerable: 0b, Item: {components: {"minecraft:custom_name": '{"color":"white","italic":false,"text":"Time Shard"}', "minecraft:enchantment_glint_override": 1b}, count: 1, id: "minecraft:echo_shard"}}

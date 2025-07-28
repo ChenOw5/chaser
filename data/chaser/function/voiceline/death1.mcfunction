@@ -1,0 +1,9 @@
+execute as @s[tag=zee] run tellraw @a {"text":"<Zee> I can finally see them...","color": "dark_aqua"}
+execute as @s[tag=eve] run tellraw @a {"text":"<Eve> Am I winning, dad?","color": "aqua"}
+execute as @s[tag=greg] run tellraw @a {"text":"<Greg> The hunter gets hunted...","color": "gray"}
+execute as @s[tag=quan] run tellraw @a {"text":"<Quan> Just go s-stop him","color": "light_purple"}
+execute as @s[tag=zeno] run tellraw @a {"text":"<Zeno> DELETE MY BROWSING HISTORY","color": "dark_blue"}
+execute as @s[tag=velocity] run tellraw @a {"text":"<Velcoity> I...I am Veloc-","color": "green"}
+execute as @s[tag=drawn] run tellraw @a {"text":"<Drawn> I lost it all...","color": "dark_gray"}
+execute as @s[tag=yun] run tellraw @a {"text":"<Yun> Cinder...","color": "blue"}
+execute as @s[tag=titanium] run tellraw @a {"text":"<Titanium> Heroes never fade...","color": "red"}

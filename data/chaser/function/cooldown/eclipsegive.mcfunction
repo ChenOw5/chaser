@@ -1,0 +1,2 @@
+execute as @s[tag=eclipse] run give @s egg[enchantments={levels:{lure:1},show_in_tooltip:false},custom_name='{"text":"Sunblaze","italic": false,"color":"yellow"}'] 1
+execute as @s[tag=eclipse] run give @s snowball[enchantments={levels:{lure:1},show_in_tooltip:false},custom_name='{"text":"Moonlit","italic": false,"color":"dark_purple"}'] 1
